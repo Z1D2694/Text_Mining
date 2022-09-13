@@ -1,6 +1,6 @@
 # Text_Mining
 ## Trabajo Práctico Text Mining
-### Objetivo** <br>
+### Objetivo
 Crear un clasificador de reseñas de hoteles.
 
 ### Daset
